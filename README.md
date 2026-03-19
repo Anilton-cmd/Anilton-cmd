@@ -18,6 +18,9 @@ I also create content and share knowledge on **software development, SaaS, and t
   <a href="https://github.com/Anilton-cmd">
     <img src="https://img.shields.io/badge/GitHub-AniltonGoncalves-181717?style=for-the-badge&logo=github" />
   </a>
+  <br>
+    <br>
+
   <a href="https://instagram.com/anilton_goncalves7">
     <img src="https://img.shields.io/badge/Instagram-@ANILTON_GONCALVES7-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -27,14 +30,12 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ## 🧠 What I do
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+-   🏗️ Sistemas Embarcados(Iot)
+-   🏭 Automação Industrial
+-   🕵️ Ethical Hacking & Security
+-   📊 Data Science & Analytics
+-   👁️ Computer Vision
+-   🤖 Machine Learning
 
 ---
 
