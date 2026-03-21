@@ -4,10 +4,16 @@
 Angola  🇦🇴
 
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
-
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+> **🔭 Futuro Físico Teórico · Criador · Cientista Cidadão**
+>
+> Sou um estudante finalista de Angola a construir na interseção entre ciência, tecnologia e impacto social. O meu objetivo a longo prazo é contribuir para a física teórica — mas enquanto chego lá, construo coisas que resolvem problemas reais.
+>
+> - 🛰️ Observação remota e visão computacional aplicadas a desafios ambientais e urbanos em África
+> - 🧠 Plataformas educativas com IA adaptativa para democratizar o acesso à educação
+> - 🚦 Soluções de tecnologia urbana inteligente com hardware embarcado
+> - 🌌 Caçador de asteroides @ IASC · Participante NASA Open Science 101 · Zooniverse
+>
+> Acredito que a coisa mais poderosa que um jovem de um país em desenvolvimento pode fazer é construir. Grandeza como consequência, nunca como objetivo.
 
 ---
 
