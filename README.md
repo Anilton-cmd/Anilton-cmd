@@ -81,7 +81,7 @@ Angola  🇦🇴
 
 ## 🚀 Philosophy
 
-> _".  
+> _" O futuro pertence àqueles que transformam ideias em realidade. 
 > ."_
 
 ---
